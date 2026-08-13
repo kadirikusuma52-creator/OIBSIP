@@ -24,5 +24,3 @@ Regression project to predict sales based on advertising expenditure.
 - Seaborn
 - Scikit-learn
 - Jupyter Notebook
-- Author
-- kadiri kusuma
